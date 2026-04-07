@@ -45,9 +45,8 @@ Users can also modify their trips using natural language and view previously gen
 
 Example:
 
-(<img width="1842" height="986" alt="Screenshot 2026-04-04 182603" src="https://github.com/user-attachments/assets/0ab8e815-2094-4f8f-aa37-244969085b96" />)  
-(<img width="1841" height="969" alt="Screenshot 2026-04-04 231834" src="https://github.com/user-attachments/assets/3d5b1989-cb82-4d1f-894b-feeb9cb7e03f" />
-)
+<img width="1842" height="986" alt="Screenshot 2026-04-04 182603" src="https://github.com/user-attachments/assets/0ab8e815-2094-4f8f-aa37-244969085b96" />
+<img width="1841" height="969" alt="Screenshot 2026-04-04 231834" src="https://github.com/user-attachments/assets/3d5b1989-cb82-4d1f-894b-feeb9cb7e03f" />
 
 ---
 
